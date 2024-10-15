@@ -6,8 +6,8 @@ server:
 #file:
 #  storage:
 #    type: aliOss
-#    accessKey: LTAI5tFtZKwUJijHMwGAA4pN
-#    secretKey: fgZwBLew7Ar37UNxNJANAwl2Hio2Pu
+#    accessKey: 123
+#    secretKey: 123
 #    endpoint: oss-cn-beijing.aliyuncs.com
 #    bucketName: pandas-xidian
 
