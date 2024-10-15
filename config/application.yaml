@@ -1,0 +1,22 @@
+server:
+  port: 8888
+  tomcat:
+    basedir: D:/temp
+
+#file:
+#  storage:
+#    type: aliOss
+#    accessKey: LTAI5tFtZKwUJijHMwGAA4pN
+#    secretKey: fgZwBLew7Ar37UNxNJANAwl2Hio2Pu
+#    endpoint: oss-cn-beijing.aliyuncs.com
+#    bucketName: pandas-xidian
+
+file:
+  storage:
+    type: s3
+    accessKey: minio
+    secretKey: minio123
+    endpoint: http://47.121.112.66:9000/
+    bucketName: ceshi
+    urlTakeSign: 1
+
