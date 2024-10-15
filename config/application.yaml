@@ -16,7 +16,7 @@ file:
     type: s3
     accessKey: minio
     secretKey: minio123
-    endpoint: http://47.121.112.66:9000/
+    endpoint: http://127.0.0.1:9000/
     bucketName: ceshi
     urlTakeSign: 1
 
